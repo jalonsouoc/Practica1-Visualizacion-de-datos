@@ -10,7 +10,7 @@ Visualización de Datos - Máster Universitario de Ciencia de Datos - Universita
 
 ### Web
 
-* [Obtención de datos]([Pra1 (jalonsouoc.github.io)](https://jalonsouoc.github.io/Practica1-Visualizacion-de-datos/))
+* [Obtención de datos](https://jalonsouoc.github.io/Practica1-Visualizacion-de-datos/)
 
 ### Fuente de datos
 
